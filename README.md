@@ -4,9 +4,9 @@
 
 ## About This Repository
 
-KinetixFile is a free, private, in-browser file converter built and maintained with limited resources. Everything runs entirely in your browser — no uploads, no accounts, no nonsense.
+KinetixFile is a free, private, in-browser file converter built independently with everyday hardware and a modest budget. Everything runs entirely in your browser — no uploads, no accounts, no nonsense.
 
-Because we operate on limited resources, we may introduce non-intrusive ads in the future to keep the project running. We are committed to keeping ads minimal and unobtrusive — your experience always comes first.
+Because we are small and budget-conscious, we may introduce non-intrusive ads in the future to keep the project running. We are committed to keeping ads minimal and unobtrusive — your experience always comes first.
 
 **Want to support us?**
 
